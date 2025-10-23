@@ -1,7 +1,7 @@
 Ruby Task Manager
 
 A simple command-line to-do list application built in Ruby.  
-It allows you to add, list, complete, and delete tasks — all stored locally in a JSON file.
+It allows you to add, list, complete, and delete tasks, all stored locally in a JSON file.
 
 Features:
 - Add new tasks
@@ -14,7 +14,7 @@ Requirements:
 - Ruby installed on your system  
   (Check with: `ruby -v`)
 
-Setup & Usage
+Setup and Usage
 1. Clone or download this repository.
 2. Open the project folder in your terminal.
 3. Run the script:
